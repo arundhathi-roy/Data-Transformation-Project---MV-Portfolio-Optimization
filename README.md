@@ -1,1 +1,1 @@
-# Data-Transformation-Project---MV-Portfolio-Optimization
+Analyze stock market data, focusing on end-of-day (EOD) prices and index values. The analysis includes data completeness checks, data transformation, missing data imputation, return calculation, and portfolio optimization using Modern Portfolio Theory. Data was extracted from Yahoo Finance and cleaned using the ETL (Extract, Transform, Load) process, leveraging PostgreSQL for data management and R Studio for analysis. The main goal of this report is to minimize potential risks while maximizing potential returns.
